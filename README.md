@@ -3,7 +3,7 @@
 I am just a high school student with interest in programming and linux
 
 <details align="center">
-  <summary> <samp>&#9776; Details</samp></summary>
+  <summary> <samp>&#9776; Statics</samp></summary>
     <p align="center">
       <img align='left' src="https://github-readme-stats.vercel.app/api?username=salahdin-ahmed&count_private=true&theme=tokyonight&showicons=true" width="380">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahdin-ahmed&langs_count=5&theme=tokyonight&layout=compact" height="150">
