@@ -19,3 +19,5 @@ I am just a high school student with interest in programming and linux
 - 🤔 I’m looking for help with a lot of things ...
 - 📫 How to reach me: u/SalastroG - @SalahDin@mastodon.online - salah2112004@gmail.com
 - ⚡ Fun fact: If programming was an anime its title won't include `Python`.
+
+![Snake eats my GitHub history](https://raw.githubusercontent.com/salahdin-ahmed/salahdin-ahmed/output/github-snake.gif)
